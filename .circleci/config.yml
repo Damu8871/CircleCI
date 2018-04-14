@@ -5,4 +5,4 @@ jobs:
        - image: circleci/python:2.7.14-stretch-browsers
      steps:
        - checkout
-       - run: echo "hello world"
+       - run: echo "hello push updated"
